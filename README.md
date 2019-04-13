@@ -6,4 +6,4 @@
 
 ### About me
 
-Krzysztof Satola: [LinkedIn Profile](https://www.linkedin.com/in/ksatola/) or [github repositories](https://github.com/ksatola).
+Krzysztof Satola: [LinkedIn Profile](https://www.linkedin.com/in/ksatola/) or [Github Repositories](https://github.com/ksatola).
