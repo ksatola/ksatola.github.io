@@ -6,10 +6,10 @@
 
 # https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
 
-markdown: kramdown
+#markdown: kramdown
 
 theme: jekyll-theme-cayman
 #theme: minima
 
-title: Analytics
-description: A container for resources
+title: Analytics & Data Science
+description: A single starting point to different resources
