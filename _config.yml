@@ -10,3 +10,6 @@ markdown: kramdown
 
 theme: jekyll-theme-cayman
 #theme: minima
+
+title: Analytics
+description: A container for resources
