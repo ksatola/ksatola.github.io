@@ -3,7 +3,8 @@
 #
 
 # Name of your site (displayed in the header)
-name: Analytics
 
+markdown: kramdown
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
+theme: minima
