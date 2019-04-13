@@ -4,7 +4,9 @@
 
 # Name of your site (displayed in the header)
 
+# https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+
 markdown: kramdown
 
-#theme: jekyll-theme-cayman
-theme: minima
+theme: jekyll-theme-cayman
+#theme: minima
