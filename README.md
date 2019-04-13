@@ -1,3 +1,7 @@
-### This page is under construction
+### Resources
 
-For now, you can see my [LinkedIn Profile](https://www.linkedin.com/in/ksatola/) or [github repositories](https://github.com/ksatola).
+- [Computational Statistics](https://github.com/ksatola/Computational-Statistics/blob/master/README.md)
+
+### About me
+
+[LinkedIn Profile](https://www.linkedin.com/in/ksatola/) or [github repositories](https://github.com/ksatola).
