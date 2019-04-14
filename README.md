@@ -8,6 +8,8 @@
 
 - [Bike Share Data](https://github.com/ksatola/Bike-Share-Data) - Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. In this project, the main objective is to use data provided by a bike share system provider to uncover bike share usage patterns.
 
+- [US Airline Delay Statistics](https://github.com/ksatola/US-Airline-Delay-Statistics) - The main objective of the project is to create a data visualization that tells a story to highlight trends and patterns (factors minimizing risks related to delayed or cancelled flights) in a dataset with information on the United States flight delays and performance.
+
 ### About Me
 
 Krzysztof Satola: [LinkedIn Profile](https://www.linkedin.com/in/ksatola/) or [Github Repositories](https://github.com/ksatola).
