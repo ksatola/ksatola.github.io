@@ -4,7 +4,7 @@
 
 - [Exploring Countries of the World Dataset](https://github.com/ksatola/Countries-of-the-World/blob/master/BlogPost.md) - The world around us is fascinating and diverse. When I found out about the _Countries of the World_ dataset I decided to take this opportunity to dig deeper inside and answer a few questions which were in my mind.
 
-### Research Projects
+### Case Studies
 
 - [Bike Share Data](https://github.com/ksatola/Bike-Share-Data) - Over the past decade, bicycle-sharing systems have been growing in number and popularity in cities across the world. Bicycle-sharing systems allow users to rent bicycles on a very short-term basis for a price. In this project, the main objective is to use data provided by a bike share system provider to uncover bike share usage patterns.
 
