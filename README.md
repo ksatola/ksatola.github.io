@@ -15,7 +15,7 @@
 
 - **[Exploring Countries of the World Dataset](https://github.com/ksatola/Countries-of-the-World/blob/master/BlogPost.md) (Blog Post)** - The world around us is fascinating and diverse. When I found out about the _Countries of the World_ dataset I decided to take this opportunity to dig deeper inside and answer a few questions which were in my mind.
 
-- **[WeRateDogs Twitter Data Wrangling](https://ksatola.github.io/projects/wrangle_act.html) (APIs Handling)** - The objectives of this study was performing data wrangling (gathering, assessing and cleaning) on provided thee sources of data, storing, analyzing, and visualizing the wrangled data, and finally reporting on 1) [data wrangling efforts](https://ksatola.github.io/projects/wrangle_report.pdf) and 2) [data analyses and visualizations](https://ksatola.github.io/projects/wrangle_preso.pdf) (as separate documents).
+- **[WeRateDogs Twitter Data Wrangling](https://ksatola.github.io/projects/wrangle_act.html) (APIs Handling)** - The objectives of this study was performing data wrangling (gathering, assessing and cleaning) on provided three sources of data, storing, analyzing, and visualizing the wrangled data, and finally reporting on 1) [data wrangling efforts](https://ksatola.github.io/projects/wrangle_report.pdf) and 2) [data analyses and visualizations](https://ksatola.github.io/projects/wrangle_preso.pdf) (as separate documents).
 
 
 ### **About Me**
