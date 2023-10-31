@@ -1,4 +1,2 @@
----
-permalink: /numizmatyka/
----
+
 # Numizmatyka
